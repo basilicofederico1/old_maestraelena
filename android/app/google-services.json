@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1097541690824",
+    "project_id": "maestraelenaapp",
+    "storage_bucket": "maestraelenaapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097541690824:android:05b043918170837b63ccfd",
+        "android_client_info": {
+          "package_name": "com.maestraelena.maestraelena_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097541690824-u4uibf1gvsasaj1gcd3os8r387msvi0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUQxBLu-kvxbAPhdazeiZ_UiQQDxxzb1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097541690824-u4uibf1gvsasaj1gcd3os8r387msvi0m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1097541690824-95vs4kbdls1d2v8is9iavs5bpbvjl8bf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.maestraelenaApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
